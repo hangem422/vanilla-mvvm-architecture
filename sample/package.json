@@ -1,0 +1,18 @@
+{
+  "name": "vanilla-mvvm-architecture-sample",
+  "version": "1.1.0",
+  "description": "Smaple of Vanilla MVVM Architecture",
+  "main": "index.html",
+  "scripts": {
+    "start": "./node_modules/serve/bin/serve.js"
+  },
+  "author": {
+    "name": "Hant",
+    "email": "hangem422@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hangem422/transforming-wolf"
+  },
+  "license": "MIT"
+}
